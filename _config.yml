@@ -24,8 +24,8 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+twitter: bkill # replace by your username
+facebook: bkill # replace by your username
 
 # Disqus
 disqus: False
@@ -69,7 +69,7 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
+username: bkill
 repo: jasper2
 branch: master
 relative_source: ../jasper2/
